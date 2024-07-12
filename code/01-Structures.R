@@ -1,10 +1,13 @@
 ## 01-Structures.R
 # Code from 01-structures
+# Arithmetic operations
 
 5 + 5
 4 - 1
 1 * 2
 4 ^ 2
+
+# Assigning values to variables
 
 a <- 1
 b <- 2
